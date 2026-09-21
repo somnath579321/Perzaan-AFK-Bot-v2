@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "CRISTEL_SMP.aternos.me",
+    "port":  20019,
     "version": "1.21.1"
   },
   "position": {
