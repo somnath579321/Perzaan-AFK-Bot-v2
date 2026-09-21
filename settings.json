@@ -8,7 +8,7 @@
   "server": {
     "ip": "CRISTEL_SMP.aternos.me",
     "port":  20019,
-    "version": "1.21.1"
+    "version": "1.21"
   },
   "position": {
     "enabled": true,
