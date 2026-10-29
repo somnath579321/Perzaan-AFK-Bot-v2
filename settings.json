@@ -1,4 +1,4 @@
-
+{
   "name": "AFK Bot",
   "bot-account": {
     "username": "PerzaanLive",
@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CRISTEL_SMP.aternos.me",
-    "port":  20019,
-    "version": "1.21"
+    "ip": "example.aternos.me",
+    "port": 75375,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
